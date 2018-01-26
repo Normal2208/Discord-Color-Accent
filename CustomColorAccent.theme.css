@@ -5,10 +5,10 @@
 */
 /* ===== PUT YOUR CUSTOM COLORS HERE ===== */
 :root {
-	--main-color: #7289da; /* Original Color: #7289da */
-	--hover-color: #697ec4; /* Original Color: #697ec4 */
-	--light-color: #8b9edc; /* Original Color: #8b9edc */
-	--dark-color: #4056a2; /* Original Color: #4056a2 */
+	--main-color: #d64141; /* Original Color: #7289da */
+	--hover-color: #00ebff; /* Original Color: #697ec4 */
+	--light-color: #ff0000; /* Original Color: #8b9edc */
+	--dark-color: #000000; /* Original Color: #4056a2 */
 }
 /*
 -------------------------------------------------------------------------------------------------------------------------------
